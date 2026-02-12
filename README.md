@@ -4,9 +4,7 @@ A simple, real-time bookmark manager built with **Next.js 15**, **Supabase**, an
 
 Users sign in with **Google**, save bookmarks (URL + title), and see live updates across tabs — no page refresh needed.
 
-![Smart Bookmark Banner](https://img.shields.io/badge/Built%20With-Next.js%20%2B%20Supabase-blue?style=for-the-badge)
 
----
 
 ## ✨ Features
 
